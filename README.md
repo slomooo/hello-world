@@ -1,2 +1,6 @@
 # hello-world
 my first repository
+
+em...
+It's my first day to the Github...
+and I'm trying have some fun here! ^^
